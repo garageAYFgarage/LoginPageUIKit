@@ -22,6 +22,7 @@ class ViewController: UIViewController {
     private func createContentView() -> UIView {
         let contentView = ContentView(frame: view.frame)
         // only nothing comment
+        // only only nothing comment #2
         return contentView
     }
     //
